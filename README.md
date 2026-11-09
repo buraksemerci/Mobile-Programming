@@ -29,8 +29,23 @@ Parts of the planning, documentation and design work were done with [Claude Code
 | Mockups (Figma) | _link_ |
 | Prototype (Figma) | _link_ |
 
+## Getting started
+
+Requirements: Flutter 3.47.9 or newer (stable), Git, an editor with the Flutter extension (VS Code or Android Studio).
+
+```bash
+git clone https://github.com/buraksemerci/Mobile-Programming.git
+cd Mobile-Programming
+flutter pub get
+flutter run
+```
+
+Using an AI coding agent? It should read [`AGENTS.md`](AGENTS.md) first (Claude Code loads it through `CLAUDE.md`).
+
 ## Repository
 
 - `docs/` — PDFs and the game design reference (`TASARIM.md`)
 - `design/` — exported screens (PNG)
+- `lib/` — Flutter app (MVVM; see `AGENTS.md` for the folder map)
 - `TODO.md` — team task list
+- `AGENTS.md` — rules for AI coding agents
