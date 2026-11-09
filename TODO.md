@@ -56,7 +56,7 @@ Teslim dilleri İngilizce. Bütün ekranlar tek ortak Figma dosyasında; hoca "g
 
 ## Kod: ortak hazırlık (Milestone 1'den sonra)
 - [ ] O1 · GitHub deposu açıldı, 4 kişi Collaborator olarak eklendi (Milestone 1'de, ilk gün)
-- [ ] O2 · `flutter create`, klasör yapısı, `.gitignore`, `analysis_options.yaml` (E)
+- [x] O2 · `flutter create`, klasör yapısı, `.gitignore`, `analysis_options.yaml` (Kadir Burak, Flutter 3.47.9)
 - [ ] O3 · `main` dalı korumalı, PR'da 1 onay şartı (E)
 - [ ] O4 · Model sınıflarının taslağı `main`'de; diğerleri bunlarla sahte veriyle başlar (A)
 - [ ] O5 · Herkes `flutter doctor` temiz ve uygulamayı kendi cihazında çalıştırdı (herkes kendi satırını tikler)
