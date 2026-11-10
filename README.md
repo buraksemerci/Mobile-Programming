@@ -10,7 +10,7 @@ A real-time 1v1 mobile football game. Twelve fictional player cards are revealed
 |---|---|---|
 | Kadir Burak Semerci | [@buraksemerci](https://github.com/buraksemerci) | K1 · Design language & design justification |
 | Behlül Kendirli | [@Behlul-Kendirli](https://github.com/Behlul-Kendirli) | _role_ |
-| Yakup Akarsu | [@yakupakarsu](https://github.com/yakupakarsu) | _role_ |
+| Yakup Akarsu | [@yakupakarsu](https://github.com/yakupakarsu) | K3 · Keeper & matchmaking screens |
 | İlayda Sokur | [@ilaydasokur0](https://github.com/ilaydasokur0) | K2 · User flow & onboarding screens |
 | Emre Şahin Atak | [@emresahinatak](https://github.com/emresahinatak) | _role_ |
 

@@ -26,9 +26,9 @@ Teslimler İngilizce. Ekranlar Figma'da **FBD · Screens** dosyasında (Wirefram
 - [x] K2.2 · Mockup: S1, S2
 - [x] K2.3 · Wireframe: S1, S2, S3
 
-### K3 · Kaleci + eşleşme · Sahibi: ______
-- [ ] K3.1 · Mockup: S4, S5 (aranıyor / rakip bulundu)
-- [ ] K3.2 · Wireframe: S4, S5, S6
+### K3 · Kaleci + eşleşme · Sahibi: Yakup Akarsu
+- [x] K3.1 · Mockup: S4, S5 (aranıyor / rakip bulundu)
+- [x] K3.2 · Wireframe: S4, S5, S6
 
 ### K4 · Sekmeler · Sahibi: ______
 - [ ] K4.1 · Mockup: T1 Club, T2 Matches, T3 Rules
