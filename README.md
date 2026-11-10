@@ -12,7 +12,7 @@ A real-time 1v1 mobile football game. Twelve fictional player cards are revealed
 | Behlül Kendirli | [@Behlul-Kendirli](https://github.com/Behlul-Kendirli) | _role_ |
 | Yakup Akarsu | [@yakupakarsu](https://github.com/yakupakarsu) | _role_ |
 | İlayda Sokur | [@ilaydasokur0](https://github.com/ilaydasokur0) | _role_ |
-| Emre Şahin Atak | _pending_ | _role_ |
+| Emre Şahin Atak | [@emresahinatak](https://github.com/emresahinatak) | _role_ |
 
 ### AI assistance
 
