@@ -21,10 +21,10 @@ Teslimler İngilizce. Ekranlar Figma'da **FBD · Screens** dosyasında (Wirefram
 - [x] K1.3 · `docs/design-justification.pdf`
 - [x] K1.4 · Mockup: S3, S6 (+3 hal), S7, S8, S9
 
-### K2 · User flow + kayıt ekranları · Sahibi: ______
-- [ ] K2.1 · `docs/user-flow.pdf` (karar noktalarıyla)
-- [ ] K2.2 · Mockup: S1, S2
-- [ ] K2.3 · Wireframe: S1, S2, S3
+### K2 · User flow + kayıt ekranları · Sahibi: İlayda Sokur
+- [x] K2.1 · `docs/user-flow.pdf` (karar noktalarıyla)
+- [x] K2.2 · Mockup: S1, S2
+- [x] K2.3 · Wireframe: S1, S2, S3
 
 ### K3 · Kaleci + eşleşme · Sahibi: ______
 - [ ] K3.1 · Mockup: S4, S5 (aranıyor / rakip bulundu)
