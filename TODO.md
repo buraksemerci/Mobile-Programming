@@ -1,55 +1,48 @@
 # Yapılacaklar
 
-Kurallar ve formüller: [docs/TASARIM.md](docs/TASARIM.md).
-
 ## Nasıl kullanıyoruz
 1. İşe başlamadan önce `git pull`.
-2. Yalnız **kendi bölümündeki** maddeleri tikle (`- [ ]` → `- [x]`). Böylece aynı satırı iki kişi düzenlemez, çakışma olmaz.
-3. Maddeyi bitirince kodla birlikte aynı commit'te tikle: `feat(draft): teklif geri sayımı #C3`.
-4. Kendi dalında çalış (`ad/kisa-konu`), PR aç, bir kişi incelesin, **normal merge** (squash yok).
-5. `git config user.email` = GitHub hesabının e-postası.
-6. Başkasının bölümüne dokunman gerekirse önce ona yaz.
+2. Yalnız **kendi bölümündeki** maddeleri tikle (`- [ ]` → `- [x]`), işle aynı commit'te.
+3. Kendi GitHub hesabınla commit at (`git config user.email`).
+4. Depoda yalnız README, TODO, kod ve teslim PDF'leri olsun; başka belge ekleme.
 
-Milestone 1 (12 Kasım 2026, 23:00; geç teslim sıfır) **yalnız tasarım ve mimari** istiyor, kod yok. Kod bölümleri (A-E) Milestone 1'den sonra başlar.
+Milestone 1 (12 Kasım 2026, 23:00; geç teslim sıfır) **yalnız tasarım ve mimari** istiyor. Hedef: 12 Kasım öğlen her şey hazır.
 
 ---
 
-## Milestone 1 · Tasarım ve mimari (12 Kasım 23:00)
-Teslim dilleri İngilizce. Bütün ekranlar tek ortak Figma dosyasında; hoca "görüntüleyebilir" yetkisiyle eklenir.
+## Milestone 1 · Tasarım ve mimari
+Teslimler İngilizce. Ekranlar Figma'da **FBD · Screens** dosyasında (Wireframes, Mockups, Prototype sayfaları); bileşenler **FBD · Design System** kütüphanesinde.
 
-**Ekranlar:** S1 Takım oluşturma · S2 Amblem editörü · S3 Ana menü · S4 Kaleci güçlendirmeleri · S5 Eşleşme · S6 Draft (açık artırma) · S7 Plan (diziliş, taktik) · S8 Maç anlatımı · S9 Penaltı ve maç sonu
+**Ekranlar:** S1 Kulüp oluşturma · S2 Arma editörü · S3 Ana ekran (Play) · S4 Kaleci güçlendirmeleri · S5 Eşleşme · S6 Draft (+ 6b/6c/6d) · S7 Plan · S8 Maç anlatımı · S9 Penaltı ve sonuç · T1 Club · T2 Matches · T3 Rules
 
-### K1 · Tasarım dili · Sahibi: ______
-- [ ] K1.1 · Renk paleti ve tipografi kararı (10 Kasım sabah, diğerleri buna göre çizer)
-- [ ] K1.2 · Figma bileşenleri: oyuncu kartı, buton, geri sayım, bakiye rozeti, amblem çerçevesi
-- [ ] K1.3 · `docs/design-justification.pdf` (1-2 sayfa: palet, tipografi, yerleşim, erişilebilirlik, hedef kullanıcı)
+### K1 · Tasarım dili · Sahibi: Kadir Burak Semerci
+- [x] K1.1 · Renk paleti ve tipografi
+- [x] K1.2 · Figma kütüphanesi (FBD · Design System, yayımlı)
+- [x] K1.3 · `docs/design-justification.pdf`
+- [x] K1.4 · Mockup: S3, S6 (+3 hal), S7, S8, S9
 
-### K2 · Akış + S1-S3 · Sahibi: ______
-- [ ] K2.1 · `docs/user-flow.pdf` (karar noktalarıyla: takım var mı, eşleşme bulundu mu, teklif kazanıldı mı, beraberlik → penaltı)
-- [ ] K2.2 · S1-S3 wireframe
-- [ ] K2.3 · S1-S3 mockup
+### K2 · User flow + kayıt ekranları · Sahibi: ______
+- [ ] K2.1 · `docs/user-flow.pdf` (karar noktalarıyla)
+- [ ] K2.2 · Mockup: S1, S2
+- [ ] K2.3 · Wireframe: S1, S2, S3
 
-### K3 · S4-S6 · Sahibi: ______
-- [ ] K3.1 · S4-S6 wireframe
-- [ ] K3.2 · S4-S6 mockup (draft ekranı en önemli ekran: kart, teklif, 3/5 sn sayaç, iki bakiye)
+### K3 · Kaleci + eşleşme · Sahibi: ______
+- [ ] K3.1 · Mockup: S4, S5 (aranıyor / rakip bulundu)
+- [ ] K3.2 · Wireframe: S4, S5, S6
 
-### K4 · S7-S9 · Sahibi: ______
-- [ ] K4.1 · S7-S9 wireframe
-- [ ] K4.2 · S7-S9 mockup
+### K4 · Sekmeler · Sahibi: ______
+- [ ] K4.1 · Mockup: T1 Club, T2 Matches, T3 Rules
+- [ ] K4.2 · Wireframe: S7, S8, S9
 
-### K5 · Mimari + prototip · Sahibi: ______
-- [ ] K5.1 · `docs/architecture-and-protocols.pdf` (MVVM; katmanlar; arayüzler: `GameService`, `AuctionEngine`, `MatchSimulator`, `TeamRepository`; protokoller: HTTPS, Firestore gerçek zamanlı dinleyici, Firebase Auth token)
-- [ ] K5.2 · Figma prototip: S1 → S9 bağlantıları, teklif ve kart geçişleri, animasyonlar
-- [ ] K5.3 · `README.md`: proje adı, 5 kişinin adı, Figma linkleri (wireframe, mockup, prototip)
-
-### Herkes
-- [ ] H1 · Kendi ekranlarının PNG dışa aktarımını `design/` altına kendi hesabıyla commit'ledi
-  - [ ] K1 · [ ] K2 · [ ] K3 · [ ] K4 · [ ] K5
+### K5 · Mimari + prototip + teslim · Sahibi: ______
+- [ ] K5.1 · `docs/architecture-and-protocols.pdf` (MVVM, arayüzler, protokoller, katman ve sıra diyagramı)
+- [ ] K5.2 · Figma prototip (S3 → S5 → S6 → S7 → S8 → S9 → S3, sekmeler)
+- [ ] K5.3 · README: Wireframes ve Prototype linkleri, rol tablosu
 
 ### Teslim (12 Kasım öğlen)
-- [ ] T1 · Depo hocaya açık (public ya da hoca eklendi), Google Sheet'e depo linki yazıldı
-- [ ] T2 · Figma dosyası "link olan görüntüleyebilir"; linkler gizli pencerede açılıyor
-- [ ] T3 · README, 3 PDF ve linkler GitHub'da açılıyor
+- [ ] T1 · Depo hocaya açık, Google Sheet'e depo linki yazıldı
+- [ ] T2 · Figma dosyaları "link olan görüntüleyebilir"; linkler gizli pencerede açılıyor
+- [ ] T3 · README, 3 PDF ve linkler GitHub'da açılıyor; herkesin en az bir commit'i var
 - [ ] T4 · Depo ZIP indirildi, `Team#_MTM4186_MS.zip` adıyla online.yildiz.edu.tr'ye yüklendi
 
 ---

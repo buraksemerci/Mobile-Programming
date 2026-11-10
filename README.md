@@ -25,8 +25,9 @@ Parts of the planning, documentation and design work were done with [Claude Code
 | Design justification (PDF) | [docs/design-justification.pdf](docs/design-justification.pdf) |
 | User flow diagram (PDF) | [docs/user-flow.pdf](docs/user-flow.pdf) |
 | Architecture & protocols (PDF) | [docs/architecture-and-protocols.pdf](docs/architecture-and-protocols.pdf) |
+| Design system library (Figma) | [FBD · Design System](https://www.figma.com/design/bgRDmCYy631F1EfBLtXsdc) |
 | Wireframes (Figma) | _link_ |
-| Mockups (Figma) | _link_ |
+| Mockups (Figma) | [FBD · Screens](https://www.figma.com/design/UUI6I7TsTDcTG6pM34elUJ) (in progress) |
 | Prototype (Figma) | _link_ |
 
 ## Getting started
@@ -40,12 +41,8 @@ flutter pub get
 flutter run
 ```
 
-Using an AI coding agent? It should read [`AGENTS.md`](AGENTS.md) first (Claude Code loads it through `CLAUDE.md`).
-
 ## Repository
 
-- `docs/` — PDFs and the game design reference (`TASARIM.md`)
-- `design/` — exported screens (PNG)
-- `lib/` — Flutter app (MVVM; see `AGENTS.md` for the folder map)
+- `docs/` — Milestone deliverables (PDF)
+- `lib/` — Flutter app (MVVM: `app`, `core`, `core/sim`, `features`, `services`)
 - `TODO.md` — team task list
-- `AGENTS.md` — rules for AI coding agents
