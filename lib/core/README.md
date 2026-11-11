@@ -1,3 +1,3 @@
 # core
 
-Modeller ve oyun kuralları, saf Dart: kart, takım, diziliş, açık artırma motoru (A).
+Models and game rules in pure Dart: card, team, formation, auction engine (A).

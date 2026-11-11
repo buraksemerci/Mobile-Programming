@@ -1,3 +1,3 @@
 # features/plan
 
-Plan ekranı: diziliş, yerleşim, taktik (D).
+Plan screen: formation, positions, tactic (D).

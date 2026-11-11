@@ -1,3 +1,3 @@
 # features/team
 
-Takım kimliği: isim, amblem editörü, kaleci (D).
+Club identity: name, crest editor, keeper (D).

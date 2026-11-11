@@ -1,3 +1,3 @@
 # core/sim
 
-Simülasyon: mevki cezası, kimya, taktik, takım puanı, Poisson skor, penaltı, anlatım (B).
+Simulation: position penalty, chemistry, tactic, team score, Poisson score, penalties, narration (B).

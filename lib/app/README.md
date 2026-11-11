@@ -1,3 +1,3 @@
 # app
 
-Uygulama iskeleti: navigasyon, tema, başlangıç (E).
+App shell: navigation, theme, start-up (E).

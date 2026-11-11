@@ -1,3 +1,3 @@
 # services
 
-GameService arayüzü, sahte ve Firebase uygulamaları (E).
+GameService interface with fake and Firebase implementations (E).

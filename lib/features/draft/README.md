@@ -1,3 +1,3 @@
 # features/draft
 
-Draft (açık artırma) ekranı ve ViewModel'i (C).
+Draft (open auction) screen and its ViewModel (C).
