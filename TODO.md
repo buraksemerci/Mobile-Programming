@@ -9,7 +9,7 @@
 ---
 
 ## Milestone 1 · Design and architecture
-Deliverables are in English. Screens are in the Figma file **FBD · Screens** (Cover, Mockups, Wireframes, Prototype pages); components are in the **FBD · Design System** library.
+Screens are in the Figma file **FBD · Screens** (Cover, Mockups, Wireframes, Prototype pages); components are in the **FBD · Design System** library.
 
 **Screens:** S1 Create club · S2 Crest editor · S3 Home (Play) · S4 Keeper boosts · S5 Matchmaking · S6 Draft (+ 6b/6c/6d) · S7 Plan · S8 Match commentary · S9 Penalties and result · T1 Club · T2 Matches · T3 Rules
 
@@ -33,7 +33,7 @@ Deliverables are in English. Screens are in the Figma file **FBD · Screens** (C
 - [x] K4.1 · Mockups: T1 Club, T2 Matches, T3 Rules
 - [x] K4.2 · Wireframes: S7, S8, S9
 
-### K5 · Architecture + prototype + submission · Owner: Kadir Burak Semerci
+### K5 · Architecture + prototype + submission · Owner: Emre Şahin Atak
 - [x] K5.1 · `docs/architecture-and-protocols.pdf` (MVVM, interfaces, protocols, layer and sequence diagrams)
 - [x] K5.2 · Figma prototype (S1 → S2 → S3 → S5 → S6 → S7 → S8 → S9 → S3, tabs)
 - [x] K5.3 · README: wireframe and prototype links, roles table
