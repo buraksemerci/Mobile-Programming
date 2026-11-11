@@ -30,9 +30,9 @@ Teslimler İngilizce. Ekranlar Figma'da **FBD · Screens** dosyasında (Wirefram
 - [x] K3.1 · Mockup: S4, S5 (aranıyor / rakip bulundu)
 - [x] K3.2 · Wireframe: S4, S5, S6
 
-### K4 · Sekmeler · Sahibi: ______
-- [ ] K4.1 · Mockup: T1 Club, T2 Matches, T3 Rules
-- [ ] K4.2 · Wireframe: S7, S8, S9
+### K4 · Sekmeler · Sahibi: Behlül Kendirli
+- [x] K4.1 · Mockup: T1 Club, T2 Matches, T3 Rules
+- [x] K4.2 · Wireframe: S7, S8, S9
 
 ### K5 · Mimari + prototip + teslim · Sahibi: ______
 - [ ] K5.1 · `docs/architecture-and-protocols.pdf` (MVVM, arayüzler, protokoller, katman ve sıra diyagramı)
