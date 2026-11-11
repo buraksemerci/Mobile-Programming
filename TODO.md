@@ -33,7 +33,7 @@ Screens are in the Figma file **FBD · Screens** (Cover, Mockups, Wireframes, Pr
 - [x] K4.1 · Mockups: T1 Club, T2 Matches, T3 Rules
 - [x] K4.2 · Wireframes: S7, S8, S9
 
-### K5 · Architecture + prototype + submission · Owner: Emre Şahin Atak
+### K5 · Architecture + prototype + submission · Owner: Emre Şahin Atak 
 - [x] K5.1 · `docs/architecture-and-protocols.pdf` (MVVM, interfaces, protocols, layer and sequence diagrams)
 - [x] K5.2 · Figma prototype (S1 → S2 → S3 → S5 → S6 → S7 → S8 → S9 → S3, tabs)
 - [x] K5.3 · README: wireframe and prototype links, roles table
