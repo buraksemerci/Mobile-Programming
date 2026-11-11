@@ -2,6 +2,8 @@
 
 MTM4681 Mobile Programming — Semester Project · Yıldız Technical University · Fall 2026
 
+Repository: https://github.com/buraksemerci/Mobile-Programming
+
 A real-time 1v1 mobile football game. Twelve fictional player cards are revealed one at a time; both players bid on each card without knowing what comes next, each building a six-player squad with a fixed budget. After a timed planning phase (formation, positions, tactics), the match is simulated and narrated minute by minute.
 
 ## Team
