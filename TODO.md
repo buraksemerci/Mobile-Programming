@@ -34,10 +34,10 @@ Teslimler İngilizce. Ekranlar Figma'da **FBD · Screens** dosyasında (Wirefram
 - [x] K4.1 · Mockup: T1 Club, T2 Matches, T3 Rules
 - [x] K4.2 · Wireframe: S7, S8, S9
 
-### K5 · Mimari + prototip + teslim · Sahibi: ______
-- [ ] K5.1 · `docs/architecture-and-protocols.pdf` (MVVM, arayüzler, protokoller, katman ve sıra diyagramı)
-- [ ] K5.2 · Figma prototip (S3 → S5 → S6 → S7 → S8 → S9 → S3, sekmeler)
-- [ ] K5.3 · README: Wireframes ve Prototype linkleri, rol tablosu
+### K5 · Mimari + prototip + teslim · Sahibi: Kadir Burak Semerci (Emre'ye ulaşılamadı, 11 Kasım)
+- [x] K5.1 · `docs/architecture-and-protocols.pdf` (MVVM, arayüzler, protokoller, katman ve sıra diyagramı)
+- [x] K5.2 · Figma prototip (S3 → S5 → S6 → S7 → S8 → S9 → S3, sekmeler)
+- [x] K5.3 · README: Wireframes ve Prototype linkleri, rol tablosu
 
 ### Teslim (12 Kasım öğlen)
 - [ ] T1 · Depo hocaya açık, Google Sheet'e depo linki yazıldı

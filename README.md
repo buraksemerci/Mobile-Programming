@@ -8,11 +8,11 @@ A real-time 1v1 mobile football game. Twelve fictional player cards are revealed
 
 | Member | GitHub | Milestone 1 role |
 |---|---|---|
-| Kadir Burak Semerci | [@buraksemerci](https://github.com/buraksemerci) | K1 · Design language & design justification |
+| Kadir Burak Semerci | [@buraksemerci](https://github.com/buraksemerci) | K1 · Design language & design justification · K5 · Architecture, prototype & submission |
 | Behlül Kendirli | [@Behlul-Kendirli](https://github.com/Behlul-Kendirli) | K4 · Tab screens & plan/match/result wireframes |
 | Yakup Akarsu | [@yakupakarsu](https://github.com/yakupakarsu) | K3 · Keeper & matchmaking screens |
 | İlayda Sokur | [@ilaydasokur0](https://github.com/ilaydasokur0) | K2 · User flow & onboarding screens |
-| Emre Şahin Atak | [@emresahinatak](https://github.com/emresahinatak) | _role_ |
+| Emre Şahin Atak | [@emresahinatak](https://github.com/emresahinatak) | — |
 
 ### AI assistance
 
@@ -26,9 +26,9 @@ Parts of the planning, documentation and design work were done with [Claude Code
 | User flow diagram (PDF) | [docs/user-flow.pdf](docs/user-flow.pdf) |
 | Architecture & protocols (PDF) | [docs/architecture-and-protocols.pdf](docs/architecture-and-protocols.pdf) |
 | Design system library (Figma) | [FBD · Design System](https://www.figma.com/design/bgRDmCYy631F1EfBLtXsdc) |
-| Wireframes (Figma) | _link_ |
-| Mockups (Figma) | [FBD · Screens](https://www.figma.com/design/UUI6I7TsTDcTG6pM34elUJ) (in progress) |
-| Prototype (Figma) | _link_ |
+| Wireframes (Figma) | [FBD · Screens → Wireframes](https://www.figma.com/design/UUI6I7TsTDcTG6pM34elUJ?node-id=1-2) |
+| Mockups (Figma) | [FBD · Screens → Mockups](https://www.figma.com/design/UUI6I7TsTDcTG6pM34elUJ?node-id=0-1) |
+| Prototype (Figma) | [Play the prototype](https://www.figma.com/proto/UUI6I7TsTDcTG6pM34elUJ?node-id=62-1525&starting-point-node-id=62%3A1525) |
 
 ## Getting started
 
