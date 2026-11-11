@@ -6,8 +6,6 @@
 3. Kendi GitHub hesabınla commit at (`git config user.email`).
 4. Depoda yalnız README, TODO, kod ve teslim PDF'leri olsun; başka belge ekleme.
 
-Milestone 1 (12 Kasım 2026, 23:00; geç teslim sıfır) **yalnız tasarım ve mimari** istiyor. Hedef: 12 Kasım öğlen her şey hazır.
-
 ---
 
 ## Milestone 1 · Tasarım ve mimari
@@ -34,16 +32,10 @@ Teslimler İngilizce. Ekranlar Figma'da **FBD · Screens** dosyasında (Wirefram
 - [x] K4.1 · Mockup: T1 Club, T2 Matches, T3 Rules
 - [x] K4.2 · Wireframe: S7, S8, S9
 
-### K5 · Mimari + prototip + teslim · Sahibi: Kadir Burak Semerci (Emre'ye ulaşılamadı, 11 Kasım)
+### K5 · Mimari + prototip + teslim · Sahibi: Kadir Burak Semerci
 - [x] K5.1 · `docs/architecture-and-protocols.pdf` (MVVM, arayüzler, protokoller, katman ve sıra diyagramı)
 - [x] K5.2 · Figma prototip (S3 → S5 → S6 → S7 → S8 → S9 → S3, sekmeler)
 - [x] K5.3 · README: Wireframes ve Prototype linkleri, rol tablosu
-
-### Teslim (12 Kasım öğlen)
-- [ ] T1 · Depo hocaya açık, Google Sheet'e depo linki yazıldı
-- [ ] T2 · Figma dosyaları "link olan görüntüleyebilir"; linkler gizli pencerede açılıyor
-- [ ] T3 · README, 3 PDF ve linkler GitHub'da açılıyor; herkesin en az bir commit'i var
-- [ ] T4 · Depo ZIP indirildi, `Team#_MTM4186_MS.zip` adıyla online.yildiz.edu.tr'ye yüklendi
 
 ---
 
